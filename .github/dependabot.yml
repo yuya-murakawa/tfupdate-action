@@ -8,8 +8,6 @@ updates:
       timezone: 'Asia/Tokyo'
     open-pull-requests-limit: 10
     target-branch: 'master'
-    reviewers:
-      - 'sharu1204'
   - package-ecosystem: 'github-actions'
     directory: '/'
     schedule:
@@ -18,5 +16,3 @@ updates:
       timezone: 'Asia/Tokyo'
     open-pull-requests-limit: 10
     target-branch: 'master'
-    reviewers:
-      - 'sharu1204'

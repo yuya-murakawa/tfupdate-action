@@ -1,5 +1,7 @@
 # tfupdate-action
 
+Fork from https://github.com/HENNGE/tfupdate-action
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Release](https://img.shields.io/github/v/release/HENNGE/tfupdate-action)](https://github.com/HENNGE/tfupdate-action/releases)
 
